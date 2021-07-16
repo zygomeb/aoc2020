@@ -25,6 +25,8 @@ library
                      , Day10
                      , Day11
                      , Day12
+                     , Day13
+                     , Exer
   other-modules:       Inputs
                      , TestInputs
   -- other-extensions:
